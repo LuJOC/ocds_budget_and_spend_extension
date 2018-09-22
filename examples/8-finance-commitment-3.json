@@ -41,6 +41,48 @@
                     "Year": "2019"
                   },
                   "measures": {
+                    "Approved": 5000,
+                    "Modified": 4000,
+                    "Committed": 3800,
+                    "Accrued": 3800,
+                    "Exercised": 3800,
+                    "Paid": {
+                      "transactions":[
+                        {
+                        "id": "CLC-582-595"
+                        "Source":
+                        "Date": "2019-02-01T00:00:00Z"
+                        "Value": {
+                          "amount": "1800",
+                          "currency": "MXN",
+                          }
+                        "uri": "https://schp_CLC582595"
+                        }
+                        {
+                        "id": "CLC-582-598"
+                        "Source":
+                        "Date": "2019-04-01T00:00:00Z"
+                        "Value": {
+                          "amount": "1000",
+                          "currency": "MXN",
+                            }
+                        "uri": "https://schp_CLC582598"
+                        }
+                         {
+                        "id": "CLC-582-613"
+                        "Source":
+                        "Date": "2019-07-01T00:00:00Z"
+                        "Value": {
+                          "amount": "1000",
+                          "currency": "MXN",
+                            }
+                        "uri": "https://schp_CLC582613"
+                      }
+                      }
+                     ]
+                    }
+
+                    
                     "Committed": 5000,
                     "Modified": 3000,
                     "Paid": 3000
