@@ -43,28 +43,7 @@
                   "measures": {
                     "Approved" : 5000,
                     "Modified" : 4000,
-                    "Committed" :{
-                      "Commitments" : {
-
-                          "id" : "SICOP_1234",
-                          "Source" :"",
-                          "Date" : "2019-02-01T00:00:00Z",
-                          "Value" : {
-                            "amount" : "1800",
-                            "currency" : "MXN",
-                            },
-                          "uri ": "https://schp_SICOP1234",
-                          }
-                          {
-                           "id" : "SICOP_2222",
-                          "Source":"",
-                          "Date": "2019-02-01T00:00:00Z",
-                          "Value": {
-                            "amount": "1800",
-                            "currency": "MXN",
-                            },
-                          "uri": "https://schp_SICOP2222",
-                } },
+                    "Committed" : 3800,
                     "Accrued": 3800,
                     "Exercised" : 3800,
                     "Paid": {
