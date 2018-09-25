@@ -50,7 +50,7 @@
                       "transactions":[
                         {
                         "id": "CLC-582-595"
-                        "Source":
+                        "Source":""
                         "Date": "2019-02-01T00:00:00Z"
                         "Value": {
                           "amount": "1800",
@@ -60,7 +60,7 @@
                         }
                         {
                         "id": "CLC-582-598"
-                        "Source":
+                        "Source":""
                         "Date": "2019-04-01T00:00:00Z"
                         "Value": {
                           "amount": "1000",
@@ -70,7 +70,7 @@
                         }
                          {
                         "id": "CLC-582-613"
-                        "Source":
+                        "Source":""
                         "Date": "2019-07-01T00:00:00Z"
                         "Value": {
                           "amount": "1000",
@@ -83,7 +83,51 @@
                     }
 
                     
-                    "Committed": 5000,
+                    "Committed": {
+                     {
+                        "id": "SICOP_1234"
+                        "Source":""
+                        "Date": "2019-02-01T00:00:00Z"
+                        "Value": {
+                          "amount": "1800",
+                          "currency": "MXN",
+                          }
+                        "uri": "https://schp_SICOP1234"
+                        }
+                        {
+                         "id": "SICOP_2222"
+                        "Source":""
+                        "Date": "2019-02-01T00:00:00Z"
+                        "Value": {
+                          "amount": "1800",
+                          "currency": "MXN",
+                          }
+                        "uri": "https://schp_SICOP2222"
+                        }
+                      
+                    }"
+                        "Source":""
+                        "Date": "2019-04-01T00:00:00Z"
+                        "Value": {
+                          "amount": "1000",
+                          "currency": "MXN",
+                            }
+                        "uri": "https://schp_CLC582598"
+                        }
+                         {
+                        "id": "CLC-582-613"
+                        "Source":""
+                        "Date": "2019-07-01T00:00:00Z"
+                        "Value": {
+                          "amount": "1000",
+                          "currency": "MXN",
+                            }
+                        "uri": "https://schp_CLC582613"
+                      }
+                      }
+                     ]
+                    }
+ 
                     "Modified": 3000,
                     "Paid": 3000
                   },
