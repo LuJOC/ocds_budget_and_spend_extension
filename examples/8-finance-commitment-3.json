@@ -64,7 +64,7 @@
                             "currency": "MXN",
                             },
                           "uri": "https://schp_SICOP2222",
-                } }
+                } },
                     "Accrued": 3800,
                     "Exercised" : 3800,
                     "Paid": {
@@ -99,8 +99,7 @@
                             },
                         "uri": "https://schp_CLC582613",
                       }  ] }
-                     } ] }
- 
+                     } ] },
                     "Modified": 3000,
                     "Paid": 3000,
                   },
