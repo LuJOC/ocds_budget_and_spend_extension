@@ -43,26 +43,26 @@
                   "measures": {
                     "Approved" : 5000,
                     "Modified" : 4000,
-                    "Committed" :
+                    "Committed" :{
                       "Commitments" : {
 
                           "id" : "SICOP_1234",
-                          "Source" :""
+                          "Source" :"",
                           "Date" : "2019-02-01T00:00:00Z",
                           "Value" : {
                             "amount" : "1800",
                             "currency" : "MXN",
-                            }
+                            },
                           "uri ": "https://schp_SICOP1234",
                           }
                           {
                            "id" : "SICOP_2222",
-                          "Source":""
+                          "Source":"",
                           "Date": "2019-02-01T00:00:00Z",
                           "Value": {
                             "amount": "1800",
                             "currency": "MXN",
-                            }
+                            },
                           "uri": "https://schp_SICOP2222",
                 } }
                     "Accrued": 3800,
@@ -76,7 +76,7 @@
                         "Value" : {
                           "amount" : "1800",
                           "currency" : "MXN",
-                          }
+                          },
                         "uri" : "https://schp_CLC582595",
                         }
                         {
@@ -86,7 +86,7 @@
                         "Value" : {
                           "amount" : "1000",
                           "currency" : "MXN",
-                            }
+                            },
                         "uri" : "https://schp_CLC582598",
                         }
                          {
@@ -96,7 +96,7 @@
                         "Value" : {
                           "amount" : "1000",
                           "currency" : "MXN",
-                            }
+                            },
                         "uri": "https://schp_CLC582613",
                       }  ] }
                      } ] }
